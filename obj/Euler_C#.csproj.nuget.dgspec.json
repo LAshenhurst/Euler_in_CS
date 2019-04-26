@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/liam/Desktop/Euler_C#/Euler_C#.csproj": {}
+  },
+  "projects": {
+    "/home/liam/Desktop/Euler_C#/Euler_C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/liam/Desktop/Euler_C#/Euler_C#.csproj",
+        "projectName": "Euler_C#",
+        "projectPath": "/home/liam/Desktop/Euler_C#/Euler_C#.csproj",
+        "packagesPath": "/home/liam/.nuget/packages/",
+        "outputPath": "/home/liam/Desktop/Euler_C#/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/liam/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

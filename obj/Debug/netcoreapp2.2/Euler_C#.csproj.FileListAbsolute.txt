@@ -1,0 +1,11 @@
+/home/liam/Desktop/Euler_C#/bin/Debug/netcoreapp2.2/Euler_C#.deps.json
+/home/liam/Desktop/Euler_C#/bin/Debug/netcoreapp2.2/Euler_C#.runtimeconfig.json
+/home/liam/Desktop/Euler_C#/bin/Debug/netcoreapp2.2/Euler_C#.runtimeconfig.dev.json
+/home/liam/Desktop/Euler_C#/bin/Debug/netcoreapp2.2/Euler_C#.dll
+/home/liam/Desktop/Euler_C#/bin/Debug/netcoreapp2.2/Euler_C#.pdb
+/home/liam/Desktop/Euler_C#/obj/Debug/netcoreapp2.2/Euler_C#.csprojAssemblyReference.cache
+/home/liam/Desktop/Euler_C#/obj/Debug/netcoreapp2.2/Euler_C#.csproj.CoreCompileInputs.cache
+/home/liam/Desktop/Euler_C#/obj/Debug/netcoreapp2.2/Euler_C#.AssemblyInfoInputs.cache
+/home/liam/Desktop/Euler_C#/obj/Debug/netcoreapp2.2/Euler_C#.AssemblyInfo.cs
+/home/liam/Desktop/Euler_C#/obj/Debug/netcoreapp2.2/Euler_C#.dll
+/home/liam/Desktop/Euler_C#/obj/Debug/netcoreapp2.2/Euler_C#.pdb
